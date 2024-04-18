@@ -8,4 +8,4 @@ elif nome[posicao] == "m" or "M":
     print(nome[:posicao]+"n"+nome[posicao+1:])
 else:
     print(nome[:posicao]+nome[posicao+1:])
-#jim
+    
